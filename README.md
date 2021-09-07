@@ -1,4 +1,4 @@
-A Software engineer who loves open source 
+An Engineer who loves open source 
 
 <!---
 ankitdetroja/ankitdetroja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
