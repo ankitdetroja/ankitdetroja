@@ -174,7 +174,7 @@
   <img align="center" alt="Ankit Detroja | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
   <a href="https://twitter.com/ankit__detroja" target="_blank">
-  <img align="center" alt="Ankit Detroja | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/twitter.svg" />
+  <img align="center" alt="Ankit Detroja | Twitter | X" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:ankitdetroja786007@gmail.com" >
   <img align="center" alt="Ankit Detroja | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
