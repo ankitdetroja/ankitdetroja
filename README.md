@@ -26,17 +26,20 @@
  </p>
 
 <p  align="center">
-
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25"/>
+&nbsp;
 <img src="https://img.shields.io/badge/React-33C7FF.svg?&style=for-the-badge&logo=React&logoColor=white" height="25"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25"/>
-  </p>
+<img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white" height="25">
+</p>
   
 <p  align="center">
 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>  
   &nbsp;
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25"/>
+&nbsp;
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
   </p>
   
 <p align="center">
@@ -45,16 +48,7 @@
 &nbsp;
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 &nbsp;
-     <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/MobX-FF9955.svg?&style=for-the-badge&logo=MobX&logoColor=white" height="25">
-&nbsp;
    <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?&style=for-the-badge&logo=.ENV&logoColor=white" height="25">
-&nbsp;
-  
-  <img src="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/Realm-39477F.svg?&style=for-the-badge&logo=Realm&logoColor=white" height="25">
 &nbsp;
 </p>
 <br>
