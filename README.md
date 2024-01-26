@@ -6,20 +6,11 @@
 
 - 💻 &nbsp; 4 years of experience in professional web application development.
 
-<br>
-
-
-
-
-
-
 ### 💻 Stack I Work With
 
 <be>
 
 <p>
-  
-
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white " height="25"/>
   &nbsp;
@@ -49,8 +40,6 @@
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
 &nbsp;
 </p>
- 
- <br>
 
   <div>
   <h3><b>😄 Can Connect With Me On</b></h3>
