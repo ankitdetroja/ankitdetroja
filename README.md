@@ -17,6 +17,8 @@
 
 <be>
 
+<p>
+  
 
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white " height="25"/>
@@ -46,7 +48,7 @@
 &nbsp;
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
 &nbsp;
-
+</p>
  
  <br>
 
