@@ -4,8 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 📱 &nbsp; 4 years of experience in professional web application development.
+- 💻 &nbsp; 4 years of experience in professional web application development.
 
 <br>
 
@@ -44,11 +43,15 @@
   
 <p align="center">
 
-<img src="https://img.shields.io/badge/React%20Hook%20Form-1B4555.svg?&style=for-the-badge&logo=React%20Hook%20Form&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25">
 &nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="25">
 &nbsp;
-   <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?&style=for-the-badge&logo=.ENV&logoColor=white" height="25">
+   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" height="25">
+&nbsp;
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
 &nbsp;
 </p>
 <br>
