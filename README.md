@@ -55,7 +55,7 @@
   <div>
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/ankit-detroja-17it020/" target="_blank">
   <img align="center" alt="Ankit Detroja | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
@@ -68,18 +68,4 @@
 <a href="https://stackoverflow.com/users/11519215/ankit-detroja">
     <img align="center" alt="Ankit Detroja | Stackoverflow" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/stack2.png" />
 </a> &nbsp;&nbsp;
-<p>
-  
-<br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/ankitdetroja/count.svg" />  
-</p>
-   
-</center>
 </p>
