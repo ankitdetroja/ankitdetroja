@@ -17,31 +17,25 @@
 
 <be>
 
-<p  align="center">
+
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white " height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white " height="25"/>  
- </p>
-
-<p  align="center">
+&nbsp;
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25"/>
 &nbsp;
 <img src="https://img.shields.io/badge/React-33C7FF.svg?&style=for-the-badge&logo=React&logoColor=white" height="25"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white" height="25">
-</p>
-  
-<p  align="center">
+&nbsp;
 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>  
   &nbsp;
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25"/>
 &nbsp;
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-  </p>
-  
-<p align="center">
+&nbsp;
 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25">
 &nbsp;
@@ -49,11 +43,10 @@
 &nbsp;
    <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" height="25">
 &nbsp;
-</p>
-<p align="center">
+&nbsp;
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
 &nbsp;
-</p>
+
  
  <br>
 
