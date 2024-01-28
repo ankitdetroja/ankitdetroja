@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 💻 &nbsp; 4 years of experience in professional web application development.
+- 4 years of experience in professional web application development.
 
 ### 💻 Stack I Work With
 
