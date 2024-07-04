@@ -60,6 +60,7 @@
 </p>
 
 <div>
-  <h3><b>Buy me s coffee
+  <h3><b>Buy me a coffee
   </div>
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ankit.detroja)
