@@ -58,9 +58,3 @@
     <img align="center" alt="Ankit Detroja | Stackoverflow" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/stack2.png" />
 </a> &nbsp;&nbsp;
 </p>
-
-<div>
-  <h3><b>Buy me a coffee
-  </div>
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ankit.detroja)
