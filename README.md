@@ -16,6 +16,8 @@
   &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white " height="25"/>  
 &nbsp;
+<img src="https://camo.githubusercontent.com/3a94fbacfc6f555c9a73c35ccd25280558336b67f074f5fabceeea3eb0f54ad8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163745f6e61746976652d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" height="25"/>  
+&nbsp;
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25"/>
 &nbsp;
 <img src="https://img.shields.io/badge/React-33C7FF.svg?&style=for-the-badge&logo=React&logoColor=white" height="25"/>
